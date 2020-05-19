@@ -1,3 +1,4 @@
+[![Build Status](https://narayanshrestha.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/sienum.mslearn-tailspin-spacegame-web?branchName=master)](https://narayanshrestha.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
